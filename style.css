@@ -1,6 +1,7 @@
-<<<<<<< HEAD
+
 #headings {
     text-align: center;
+    padding: 25px;
 }
 
 #ex1one {
@@ -45,14 +46,14 @@
     height: 133px;
     background-color: palegoldenrod;
     border-radius: 0 50px 0 0;
-    color: white;
+    color: black;
 
 }
 
 #thirdcol2 {
     height: 133px;
     background-color: gold;
-    color: white;
+    color: black;
 }
 
 #thirdcol3 {
@@ -60,8 +61,12 @@
     background-color: goldenrod;
     border-radius: 0 0 50px 0;
     border-bottom: solid 1px black;
-    color: white;
-=======
+    color: black;
+
+
+
+
+
 h1 {
     background-color: red;
     text-align: center;
@@ -73,5 +78,5 @@ h1 {
 .ex2-btn{
     width: 100px;
     
->>>>>>> 4a51619621403ac8cbc45fe7b2e5a14744741380
+
 }
