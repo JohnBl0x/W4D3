@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #headings {
     text-align: center;
 }
@@ -61,17 +61,27 @@
     border-radius: 0 0 50px 0;
     border-bottom: solid 1px black;
     color: white;
-=======
+}
 h1 {
-    background-color: red;
-    text-align: center;
+text-align: center;
 }
 .ex2-list{
     list-style-type: none;
     text-align: center;
 }
 .ex2-btn{
-    width: 100px;
-    
->>>>>>> 4a51619621403ac8cbc45fe7b2e5a14744741380
+width: 100%;
+}
+.ex2-h2{
+    color: rgb(128, 128, 128);
+    text-align: left;
+}
+.ex2-btn:hover{
+    background-color: white;
+    color: #007bff;
+}
+.con-ex2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
