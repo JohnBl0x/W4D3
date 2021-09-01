@@ -61,22 +61,43 @@
     background-color: goldenrod;
     border-radius: 0 0 50px 0;
     border-bottom: solid 1px black;
+<<<<<<< HEAD
     color: black;
 
 
 
 
 
+=======
+    color: white;
+}
+>>>>>>> d0b52b4eaf9a778e1087a0023bbe7595e59d5dfe
 h1 {
-    background-color: red;
-    text-align: center;
+text-align: center;
 }
 .ex2-list{
     list-style-type: none;
     text-align: center;
 }
 .ex2-btn{
+<<<<<<< HEAD
     width: 100px;
     
 
+=======
+width: 100%;
+}
+.ex2-h2{
+    color: rgb(128, 128, 128);
+    text-align: left;
+}
+.ex2-btn:hover{
+    background-color: white;
+    color: #007bff;
+}
+.con-ex2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+>>>>>>> d0b52b4eaf9a778e1087a0023bbe7595e59d5dfe
 }
